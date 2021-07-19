@@ -3,5 +3,8 @@
   "sources": {
       "dir": "src",
       "subdirs": true
-  }
+  },
+  "bs-dependencies": [
+    "bs-axios"
+  ]
 }
